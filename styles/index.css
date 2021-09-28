@@ -1,0 +1,52 @@
+*{
+	font-family: 'Prompt', sans-serif;
+}
+
+.container-fluid > .navbar-brand{
+	font-size: 35px;
+
+}
+
+.navbar-text{
+	font-size: 30px;
+
+}
+
+div > .rounded-circle{
+	height: auto;
+   width: 400px;
+
+
+}
+
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+
+.skills{
+	width: 150px;
+	height: 150px;
+}
+
+footer>  a > .social{
+	width: 50px;
+	height:50px;
+
+
+}
+
+footer{
+	letter-spacing: 150px;
+}
+
+
+.container-fluid{
+	background-image: url(../images/swe.jpg);
+	background-size: contain;
+	background-position: center;
+}
+
+.hd{
+	background-image: url(../images/hd.jpg);
+}
