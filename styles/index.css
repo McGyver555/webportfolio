@@ -7,6 +7,8 @@
 
 }
 
+
+
 .navbar-text{
 	font-size: 30px;
 
@@ -14,7 +16,7 @@
 
 div > .rounded-circle{
 	height: auto;
-   width: 400px;
+   width: 500px;
 
 
 }
@@ -27,6 +29,7 @@ div > .rounded-circle{
 .skills{
 	width: 150px;
 	height: 150px;
+
 }
 
 footer>  a > .social{
@@ -41,12 +44,12 @@ footer{
 }
 
 
-.container-fluid{
-	background-image: url(../images/swe.jpg);
-	background-size: contain;
-	background-position: center;
+
+.bio{
+	font-size: 25px;
 }
 
-.hd{
-	background-image: url(../images/hd.jpg);
+.b{
+	list-style-type: none;
 }
+
